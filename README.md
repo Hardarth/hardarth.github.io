@@ -91,4 +91,4 @@ Escape returns to the index.
 
 **Linkable** — `index.html#wicking` opens that project directly, so you can send
 someone straight to one instead of the whole index. A reading-progress bar runs
-across the top of case studies.
+across the top of case studies. 
